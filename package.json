@@ -1,0 +1,24 @@
+{
+  "name": "task-manager",
+  "version": "1.0.0",
+  "description": "A task manager project, created by following a guide from John Smilga",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Onur Onat Surmeli",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zibilyonik/task-manager.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Zibilyonik/task-manager/issues"
+  },
+  "homepage": "https://github.com/Zibilyonik/task-manager#readme",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
